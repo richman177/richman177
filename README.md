@@ -148,14 +148,3 @@ I am a backend developer specializing in building high-performance and scalable 
 <div style="animation: fadeIn 2s ease-out;">
   I would be happy to connect and collaborate on new projects!
 </div>
-
-<style>
-  @keyframes fadeIn {
-    0% {
-      opacity: 0;
-    }
-    100% {
-      opacity: 1;
-    }
-  }
-</style>
