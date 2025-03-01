@@ -94,21 +94,33 @@ I am a backend developer specializing in building high-performance and scalable 
 
 ## Projects
 
-### 1. [Task Manager](https://github.com/richman177/task-manager)
-<div style="animation: fadeIn 2s ease-out;">
-  Веб-приложение для управления задачами, созданное с использованием **Django**, **PostgreSQL** и **Docker**.
-</div>
+[//]: # ()
+[//]: # (### 1. [Task Manager]&#40;https://github.com/richman177/task-manager&#41;)
 
+[//]: # (<div style="animation: fadeIn 2s ease-out;">)
 
-### 2. [E-commerce API](https://github.com/richman177/ecommerce-api)
-<div style="animation: fadeIn 2s ease-out 0.5s;">
-  RESTful API для онлайн-магазина, разработанное на **FastAPI**, **Redis** и **JWT** для аутентификации.
-</div>
+[//]: # (  Веб-приложение для управления задачами, созданное с использованием **Django**, **PostgreSQL** и **Docker**.)
 
-### 3. [Image Processing Service](https://github.com/richman177/image-processing)
-<div style="animation: fadeIn 2s ease-out 1s;">
-  Микросервис для обработки изображений с использованием **Celery**, **RabbitMQ** и **Docker**.
-</div>
+[//]: # (</div>)
+
+[//]: # ()
+[//]: # ()
+[//]: # (### 2. [E-commerce API]&#40;https://github.com/richman177/ecommerce-api&#41;)
+
+[//]: # (<div style="animation: fadeIn 2s ease-out 0.5s;">)
+
+[//]: # (  RESTful API для онлайн-магазина, разработанное на **FastAPI**, **Redis** и **JWT** для аутентификации.)
+
+[//]: # (</div>)
+
+[//]: # ()
+[//]: # (### 3. [Image Processing Service]&#40;https://github.com/richman177/image-processing&#41;)
+
+[//]: # (<div style="animation: fadeIn 2s ease-out 1s;">)
+
+[//]: # (  Микросервис для обработки изображений с использованием **Celery**, **RabbitMQ** и **Docker**.)
+
+[//]: # (</div>)
 
 
 ## 📫 Contact Me
