@@ -122,9 +122,6 @@ I am a backend developer specializing in building high-performance and scalable 
 
 [//]: # (</div>)
 
-
-## 📫 Contact Me
-
 ## 📫 Contact Me
 
 <div style="display: flex; justify-content: space-between; gap: 10px;">
