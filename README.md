@@ -92,7 +92,7 @@ I am a backend developer specializing in building high-performance and scalable 
 </div>
 
 
-## Projects
+[//]: # (## Projects)
 
 [//]: # ()
 [//]: # (### 1. [Task Manager]&#40;https://github.com/richman177/task-manager&#41;)
