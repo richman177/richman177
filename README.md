@@ -122,8 +122,8 @@ I am a backend developer specializing in building high-performance and scalable 
   <a href="https://github.com/richman177/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-richman177-black?style=for-the-badge&logo=github" alt="GitHub">
   </a> - 
-  <a href="https://web.whatsapp.com/" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Contact-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp">
+  <a href="https://wa.me/995222459912" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-+995222459912-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp">
   </a> - 
   <a href="https://t.me/elmirbek1" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram" alt="Telegram">
