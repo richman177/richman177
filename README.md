@@ -32,19 +32,6 @@ My goal is to create reliable and efficient server solutions that provide excell
 
 ---
 
-## 🚀 Featured Projects
-
-### 🧾 [Task Manager](https://github.com/richman177/task-manager)
-> A task management web app built with Django, PostgreSQL, and Docker.
-
-### 🛒 [E-commerce API](https://github.com/richman177/ecommerce-api)
-> A RESTful API for an online store, built with FastAPI, JWT Auth, and Redis.
-
-### 🖼 [Image Processing Service](https://github.com/richman177/image-processing)
-> A microservice for image processing using Celery, RabbitMQ and Docker.
-
----
-
 ## 📫 Contact Me
 
 - 📩 Telegram: [@elmirbek1](https://t.me/elmirbek1)  
