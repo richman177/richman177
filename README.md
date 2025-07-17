@@ -1,5 +1,10 @@
 <!-- GitHub Profile README -->
 
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/richman177/richman177/blob/output/github-contribution-grid-snake.svg)
+
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+I+am+Elmirbek;Python+Backend+Developer;FastAPI+%7C+Django+%7C+PostgreSQL+%7C+Docker" alt="Typing SVG" />
 </p>
