@@ -44,3 +44,13 @@ My goal is to create reliable and efficient server solutions that provide excell
 ## 🙌 Let's Connect
 
 > I would be happy to connect and collaborate on new projects!
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img
+    alt="Github Contribution Snake"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    width="800"
+    height="180"
+  />
+</p>
